@@ -11,29 +11,29 @@ const Review = () => {
                 <h2>Rating: 4/5</h2>
             </div>
             <div>
-                <h1>Name: alex</h1>
+                <h1>Name: Martin</h1>
+                <p>Comment: this watch is looking awsome. but the warch is very expensive.this watch is looking awsome. but the warch is very expensive</p>
+                <h2>Rating: 5/5</h2>
+            </div>
+            <div>
+                <h1>Name: Domain</h1>
+                <p>Comment: this watch is looking awsome. but the warch is very expensive.this watch is looking awsome. but the warch is very expensive</p>
+                <h2>Rating: 3/5</h2>
+            </div>
+            <div>
+                <h1>Name: Alpha</h1>
+                <p>Comment: this watch is looking awsome. but the warch is very expensive.this watch is looking awsome. but the warch is very expensive</p>
+                <h2>Rating: 4/5</h2>
+            </div>
+            <div>
+                <h1>Name: Ana</h1>
                 <p>Comment: this watch is looking awsome. but the warch is very expensive.this watch is looking awsome. but the warch is very expensive</p>
                 <h2>Rating: 4/5</h2>
             </div>
             <div>
                 <h1>Name: alex</h1>
                 <p>Comment: this watch is looking awsome. but the warch is very expensive.this watch is looking awsome. but the warch is very expensive</p>
-                <h2>Rating: 4/5</h2>
-            </div>
-            <div>
-                <h1>Name: alex</h1>
-                <p>Comment: this watch is looking awsome. but the warch is very expensive.this watch is looking awsome. but the warch is very expensive</p>
-                <h2>Rating: 4/5</h2>
-            </div>
-            <div>
-                <h1>Name: alex</h1>
-                <p>Comment: this watch is looking awsome. but the warch is very expensive.this watch is looking awsome. but the warch is very expensive</p>
-                <h2>Rating: 4/5</h2>
-            </div>
-            <div>
-                <h1>Name: alex</h1>
-                <p>Comment: this watch is looking awsome. but the warch is very expensive.this watch is looking awsome. but the warch is very expensive</p>
-                <h2>Rating: 4/5</h2>
+                <h2>Rating: 2/5</h2>
             </div>
             </div>
         </div>
