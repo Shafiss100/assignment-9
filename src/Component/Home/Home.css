@@ -1,0 +1,14 @@
+.first-container{
+    display: flex;
+    align-items: center;
+}
+.details{
+    padding: 5%;
+    margin: 5%;
+}
+.comments-container{
+    margin: 20px;
+}
+.btn{
+    margin: 30px;
+}
