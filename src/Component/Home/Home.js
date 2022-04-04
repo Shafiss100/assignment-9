@@ -15,7 +15,7 @@ const Home = () => {
             <div><img src={img} alt="" /></div>
         </div>
         <div>
-            <h1 className='details'>Review</h1>
+            <h1 className='r'>Review</h1>
         </div>
         <div className='comments-container'>
             <Review></Review>

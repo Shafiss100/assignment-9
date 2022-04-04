@@ -12,3 +12,13 @@
 .btn{
     margin: 30px;
 }
+.charts{
+    display: flex;
+    margin: 20px;
+
+}
+.charts div{
+    margin: 40px;
+
+}
+
