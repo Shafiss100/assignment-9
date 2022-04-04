@@ -7,8 +7,10 @@ import About from './Component/About/About';
 import Home from './Component/Home/Home';
 import './main.css';
 import NotFound from './Component/NotFound/NotFound';
+import { useEffect, useState } from 'react';
 
 function App() {
+  
   return (
     <div className="App">
       <div className='links'>
@@ -22,6 +24,7 @@ function App() {
         <Route path='/' element={<Home/>}/>
         <Route path='/review' element={<Review/>}/>
         <Route path='/dashboard' element={<Dashboard/>}/>
+        
         <Route path='/blog' element={<Blogs/>}/>
         <Route path='/about' element={<About/>}/>
         <Route path='*' element={<NotFound></NotFound>}/>
