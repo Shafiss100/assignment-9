@@ -6,7 +6,7 @@ import Review from '../Review/Review';
 
 const Home = () => {
     return (
-        <div>
+        <div className='spacing'>
             <div className='first-container'>
             <div className='details'>
                 <h1>Samsung Galaxy Watch4 44mm </h1>
@@ -22,7 +22,7 @@ const Home = () => {
 
         
         </div>
-        <Link className='btn link' to={'/review'}>See all review</Link>
+        <Link className='btn link spacing' to={'/review'}>See all review</Link>
         </div>
     );
 };
